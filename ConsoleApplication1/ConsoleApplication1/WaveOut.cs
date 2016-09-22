@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 using System.Runtime.InteropServices;
 using System.Threading;
 
-namespace KnightRyderAudioPlayback
+namespace WaveOutError
 {
     public abstract class WaveOutNative
     {
